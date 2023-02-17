@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4-1953/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Session Discussion, August 4, 1953" ] },
+    "homepage": [
+      {
+        "id": "https://id.lib.harvard.edu/alma/990016954060203941/catalog",
+        "type": "Text",
+        "label": { "en": [ "Session Discussion, August 4, 1953" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://library.harvard.edu/",
+        "type": "Agent",
+        "label": { "en": [ "Harvard Library" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4-1953/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1965.0,
+        "items": [
+          {
+            "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4-1953/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4-1953/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://archive.org/download/990016954060203941-tape-06./990016954060203941_tape06..mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1965.0
+                },
+                "target": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4-1953/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
