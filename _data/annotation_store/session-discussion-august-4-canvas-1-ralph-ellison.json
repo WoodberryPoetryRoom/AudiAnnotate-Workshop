@@ -36,7 +36,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "820"
+          "t": "909"
         }
       }
     },
@@ -72,7 +72,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "851"
+          "t": "940"
         }
       }
     },
@@ -108,7 +108,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "870"
+          "t": "959"
         }
       }
     },
@@ -144,7 +144,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "902"
+          "t": "991"
         }
       }
     },
@@ -159,7 +159,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": " Now, the other thing, which I would say to enforce it, is that the novel means to communicate. It is first of all a medium of communication. I don't care if it's restricted to a small group of existentialists-- you name it. There must be a shared experience in between the process of the novel-- the process which is a novel and the audience which received.",
+          "value": " Now, the other thing, which I would say to enforce it, is that the novel means to communicate. It is first of all a medium of communication. I don't care if it's restricted to a small group of existentialists-- you name it. There must be a shared experience in between the process of the novel-- the process which is a novel and the audience which receives it. ",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -180,7 +180,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "918"
+          "t": "1007"
         }
       }
     }

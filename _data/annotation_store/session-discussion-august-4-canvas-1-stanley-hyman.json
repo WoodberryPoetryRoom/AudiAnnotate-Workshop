@@ -36,7 +36,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "51"
+          "t": "140"
         }
       }
     },
@@ -72,7 +72,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "86"
+          "t": "175"
         }
       }
     },
@@ -87,7 +87,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": " These facts are related, are structured meaningfully in relation to human life. And I would add, too, along those lines, to Mr. Frohock's slogan from Baudelaire, one that I think I think is significant there. Freud's slogan, that we must colonize ed with ego. That spreading of the rational, the idea that Freud said was the principle of his work and that is probably the principle of ours, too.",
+          "value": " These facts are related, are structured meaningfully in relation to human life. And I would add, too, along those lines, to Mr. Frohock's slogan from Baudelaire, one that I think I think is significant there. Freud's slogan, that we must colonize id with ego. That spreading of the rational, the idea that Freud said was the principle of his work and that is probably the principle of ours, too.",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -108,7 +108,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "107"
+          "t": "196"
         }
       }
     },
@@ -144,7 +144,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "132"
+          "t": "221"
         }
       }
     },
@@ -180,7 +180,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "151"
+          "t": "240"
         }
       }
     },
@@ -216,7 +216,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "385"
+          "t": "474"
         }
       }
     },
@@ -252,7 +252,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "406"
+          "t": "495"
         }
       }
     },
@@ -288,7 +288,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "432"
+          "t": "521"
         }
       }
     },
@@ -324,7 +324,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1227"
+          "t": "1316"
         }
       }
     }

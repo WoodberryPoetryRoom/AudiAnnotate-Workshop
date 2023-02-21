@@ -36,7 +36,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1326"
+          "t": "1415"
         }
       }
     },
@@ -72,7 +72,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1349"
+          "t": "1438"
         }
       }
     },
@@ -87,7 +87,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": " But if you inject the notion of moral in the philosophical sense into the use of the imagination as a creative factor in the construction of a thing of beauty, it seems to me that we're no longer talking about art. We're talking about the styling of a new ford It doesn't seem to me to be consistent with the idea of creation. I know I'm being very incoherent about this thing, and I'm glad.",
+          "value": " But if you inject the notion of moral in the philosophical sense into the use of the imagination as a creative factor in the construction of a thing of beauty, it seems to me that we're no longer talking about art. We're talking about the styling of a new Ford It doesn't seem to me to be consistent with the idea of creation. I know I'm being very incoherent about this thing, and I'm glad.",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -108,7 +108,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1368"
+          "t": "1457"
         }
       }
     },
@@ -144,7 +144,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1409"
+          "t": "1498"
         }
       }
     }

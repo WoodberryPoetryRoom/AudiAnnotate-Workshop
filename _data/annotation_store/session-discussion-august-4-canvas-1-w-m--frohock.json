@@ -12,6 +12,72 @@
         "supplementing",
         "commenting"
       ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The mind revolts. Reality buzzes and booms at him. The exterior world explodes at him, beats him up, shuts him up in a box. Experience shoots at him and throws spears. The hero's mind posits an objective, verifiable reality outside itself and assumes it to be where it should be. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But the continuous shock makes him perceive it as if it were hallucination. The impact of so violent a world keeps him on the ragged line that separates fantasy from waking, from waking and stably conscious life. This is the effect that Celine aims at in Journey to the End of Night and Death on the Installment Plan without ever quite bringing it off.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "26"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "How Ralph Ellison brings it off demands the attention of the kind of critic we so badly need. Criticism of the kind I've been asking for may be slow in coming, but we must have it, and it's not inconceivable that we shall. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "56"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
       "body": [
         {
           "type": "TextualBody",
@@ -36,13 +102,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "148"
+          "t": "237"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-1.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-4.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -72,13 +138,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "152"
+          "t": "241"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-2.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-5.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -108,13 +174,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "300"
+          "t": "389"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-3.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-6.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -144,13 +210,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "332"
+          "t": "421"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-4.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-7.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -180,13 +246,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "361"
+          "t": "450"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-5.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-8.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -195,7 +261,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": " With that poem is an illustration, though. The poem goes on to point out that the wilderness also makes the jar somewhat-- this overly organized jar-- somewhat tawdry, so that I believe that the poem by Wallace Stevens doesn't answer this question. It's just in the middle of both sides of the discussion.",
+          "value": " With that poem as an illustration, though. The poem goes on to point out that the wilderness also makes the jar somewhat-- this overly organized jar-- somewhat tawdry, so that I believe that the poem by Wallace Stevens doesn't answer this question. It's just in the middle of both sides of the discussion.",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -216,13 +282,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "451"
+          "t": "540"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-6.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-9.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -252,13 +318,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "619"
+          "t": "708"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-7.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-10.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -288,13 +354,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "638"
+          "t": "727"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-8.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-11.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -324,13 +390,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "645"
+          "t": "734"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-9.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-12.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -360,13 +426,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "651"
+          "t": "740"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-10.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-13.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -396,13 +462,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "669"
+          "t": "758"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-11.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-14.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -432,13 +498,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "686"
+          "t": "775"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-12.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-15.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -468,13 +534,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "717"
+          "t": "806"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-13.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-16.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -504,13 +570,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "740"
+          "t": "829"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-14.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-17.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -540,13 +606,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "757"
+          "t": "846"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-15.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-18.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -576,13 +642,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "788"
+          "t": "877"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-16.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-19.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -612,13 +678,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1005"
+          "t": "1094"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-17.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-20.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -648,13 +714,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1084"
+          "t": "1173"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-18.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-21.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -684,13 +750,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1095"
+          "t": "1184"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-19.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-22.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -720,13 +786,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1114"
+          "t": "1203"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-20.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-23.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -756,13 +822,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1118"
+          "t": "1207"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-21.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-24.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -792,13 +858,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1136"
+          "t": "1225"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-22.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-25.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -828,13 +894,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1177"
+          "t": "1266"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-23.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-26.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -864,13 +930,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1178"
+          "t": "1268"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-24.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-27.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -900,13 +966,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1182"
+          "t": "1271"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-25.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-28.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -936,13 +1002,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1206"
+          "t": "1295"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-26.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-29.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -972,13 +1038,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1257"
+          "t": "1346"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-27.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-30.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1008,13 +1074,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1401"
+          "t": "1490"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-28.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-31.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1044,13 +1110,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1412"
+          "t": "1501"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-29.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-32.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1080,13 +1146,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1417"
+          "t": "1506"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-30.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-33.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1116,13 +1182,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1433"
+          "t": "1522"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-31.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-34.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1152,13 +1218,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1466"
+          "t": "1555"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-32.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-35.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1188,13 +1254,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1591"
+          "t": "1680"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-33.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-36.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1224,13 +1290,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1609"
+          "t": "1698"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-34.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-37.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1239,7 +1305,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": " I suspect so. I read Elliott's book I don't know how long ago and remember only my resentment of it at the time. But I suspect that there is a slight joining of minds in that direction. It's only a suspicion, and I could be easily refuted by anyone who has Elliot and INDAUDIBLE  at his fingertips.",
+          "value": " I suspect so. I read Elliott's book I don't know how long ago and remember only my resentment of it at the time. But I suspect that there is a slight joining of minds in that direction. It's only a suspicion, and I could be easily refuted by anyone who has Elliott and his Elliott at his fingertips.",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -1260,13 +1326,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1654"
+          "t": "1743"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-35.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-38.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1296,13 +1362,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1738"
+          "t": "1827"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-36.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-39.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1332,13 +1398,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1742"
+          "t": "1831"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-37.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-40.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1368,13 +1434,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1771"
+          "t": "1860"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-38.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-41.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1404,13 +1470,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1795"
+          "t": "1884"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-39.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-42.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1419,7 +1485,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": " And I would say the same for certain pages of, say, INAUDIBLE  in A la Recherche du Temps Perdu. I happened to spend a year of my life making sure that a piece of coral rock out in the Pacific Ocean would not move. The Japanese didn't want to move it, but we couldn't go away.",
+          "value": " And I would say the same for certain pages of, say, Albertine Disaparue in A la Recherche du Temps Perdu. I happened to spend a year of my life making sure that a piece of coral rock out in the Pacific Ocean would not move. The Japanese didn't want to move it, but we couldn't go away.",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -1440,13 +1506,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1809"
+          "t": "1898"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-40.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-43.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1476,13 +1542,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1831"
+          "t": "1929"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-41.json",
+      "id": "session-discussion-august-4-canvas-1-w-m--frohock-annotation-44.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1512,7 +1578,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1847"
+          "t": "1945"
         }
       }
     }

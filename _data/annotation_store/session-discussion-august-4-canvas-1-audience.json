@@ -12,31 +12,17 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": " LAUGHTER",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Audience",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Session Discussion August 4",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "APPLAUSE",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "526"
+          "type": "RangeSelector",
+          "t": "75,74"
         }
       }
     },
@@ -72,7 +58,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "572"
+          "t": "615"
         }
       }
     },
@@ -108,7 +94,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "622"
+          "t": "660"
         }
       }
     },
@@ -144,7 +130,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "635"
+          "t": "711"
         }
       }
     },
@@ -180,7 +166,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "640"
+          "t": "724"
         }
       }
     },
@@ -216,7 +202,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "648"
+          "t": "729"
         }
       }
     },
@@ -252,7 +238,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "662"
+          "t": "737"
         }
       }
     },
@@ -288,13 +274,49 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "754"
+          "t": "751"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "session-discussion-august-4-canvas-1-audience-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " LAUGHTER",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "843"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-9.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -324,13 +346,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "963"
+          "t": "1052"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-9.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-10.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -360,13 +382,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "965"
+          "t": "1054"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-10.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-11.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -396,13 +418,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "969"
+          "t": "1058"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-11.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-12.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -432,13 +454,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "977"
+          "t": "1066"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-12.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-13.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -468,13 +490,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1014"
+          "t": "1103"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-13.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-14.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -504,13 +526,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1051"
+          "t": "1140"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-14.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-15.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -540,13 +562,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1076"
+          "t": "1165"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-15.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-16.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -576,13 +598,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1085"
+          "t": "1174"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-16.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-17.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -612,13 +634,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1087"
+          "t": "1176"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-17.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-18.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -648,13 +670,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1105"
+          "t": "1194"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-18.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-19.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -684,13 +706,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1109"
+          "t": "1198"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-19.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-20.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -720,13 +742,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1115"
+          "t": "1204"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-20.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-21.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -756,13 +778,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1120"
+          "t": "1209"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-21.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-22.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -792,13 +814,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1154"
+          "t": "1243"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-22.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-23.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -828,13 +850,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1175"
+          "t": "1246"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-23.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-24.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -864,13 +886,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1178"
+          "t": "1267"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-24.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-25.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -900,43 +922,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1180"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-25.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": " LAUGHTER",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Audience",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Session Discussion August 4",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "1220"
+          "t": "1269"
         }
       }
     },
@@ -972,7 +958,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1397"
+          "t": "1309"
         }
       }
     },
@@ -1008,49 +994,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1407"
+          "t": "1486"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "session-discussion-august-4-canvas-1-audience-annotation-28.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": " INAUDIBLE  it seems like it's awfully--",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Audience",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Session Discussion August 4",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "1414"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-29.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1080,7 +1030,43 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1429"
+          "t": "1496"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " INAUDIBLE  it seems like it's awfully--",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1503"
         }
       }
     },
@@ -1116,13 +1102,49 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1464"
+          "t": "1518"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "session-discussion-august-4-canvas-1-audience-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " LAUGHTER",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1553"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-32.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1152,13 +1174,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1530"
+          "t": "1619"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-32.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-33.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1167,7 +1189,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": " Fine. Thank you. It seemed to me when Mr. Frohock was speaking-- I'd like to get Mr. Frohock off the hook, but I don't see my way to advise since he apparently has insight into wanting the stuff that I don't have. The idea about manners and the novel and any relevance to this discussion.",
+          "value": " Fine. Thank you. It seemed to me when Mr. Frohock was speaking-- I'd like to get Mr. Frohock off the hook, but I don't see my way to advise since he apparently has insight into Lionel Trilling's thoughts that I don't have I don't have. The idea about manners and the novel and any relevance to this discussion.",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -1188,13 +1210,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1531"
+          "t": "1620"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-33.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-34.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1224,13 +1246,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1550"
+          "t": "1639"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-34.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-35.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1260,13 +1282,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1572"
+          "t": "1661"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-35.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-36.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1296,13 +1318,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1641"
+          "t": "1730"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-36.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-37.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1332,13 +1354,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1683"
+          "t": "1772"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-37.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-38.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1368,13 +1390,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1705"
+          "t": "1794"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-38.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-39.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1404,13 +1426,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1720"
+          "t": "1809"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-39.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-40.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1440,13 +1462,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1740"
+          "t": "1829"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-40.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-41.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1476,13 +1498,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1789"
+          "t": "1878"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-41.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-42.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1512,13 +1534,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1803"
+          "t": "1892"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-42.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-43.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1548,13 +1570,13 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1804"
+          "t": "1893"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-43.json",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-44.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -1584,43 +1606,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1805"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "session-discussion-august-4-canvas-1-audience-annotation-44.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": " LAUGHTER",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Audience",
-          "format": "text/plain",
-          "purpose": "tagging"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Session Discussion August 4",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "1807"
+          "t": "1894"
         }
       }
     },
@@ -1656,7 +1642,7 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1844"
+          "t": "1896"
         }
       }
     },
@@ -1692,7 +1678,43 @@
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "1873"
+          "t": "1942"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-audience-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " LAUGHTER",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Session Discussion August 4",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1971"
         }
       }
     }
