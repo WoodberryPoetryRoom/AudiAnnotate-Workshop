@@ -67,6 +67,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-trent-.json",
+            "label": {
+              "none": ["Trent "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-andrew-lytle.json",
             "label": {
               "none": ["Andrew Lytle"]
@@ -94,6 +102,14 @@
             "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-panelists.json",
             "label": {
               "none": ["Panelists"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-trent.json",
+            "label": {
+              "none": ["Trent"]
             }
           }
           ,

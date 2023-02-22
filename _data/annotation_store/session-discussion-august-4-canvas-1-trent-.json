@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-trent-.json",
+  "type": "AnnotationPage",
+  "label": "Trent ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-trent--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Annotations",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "800.0,850.0"
+        }
+      }
+    }
+  ]
+}
