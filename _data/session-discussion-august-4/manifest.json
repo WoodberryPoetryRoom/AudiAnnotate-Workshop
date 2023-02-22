@@ -67,6 +67,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-zoe-.json",
+            "label": {
+              "none": ["Zoe "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-andrew-lytle.json",
             "label": {
               "none": ["Andrew Lytle"]
