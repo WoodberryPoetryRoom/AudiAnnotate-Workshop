@@ -12,12 +12,26 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "The mind revolts. Reality buzzes and booms at him. The exterior world explodes at him, beats him up, shuts him up in a box. Experience shoots at him and throws spears. The hero's mind posits an objective, verifiable reality outside itself and assumes it to be where it should be. ",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The mind revolts. Reality buzzes and booms at him. The exterior world explodes at him, beats him up, shuts him up in a box. Experience shoots at him and throws spears. The hero's mind posits an objective, verifiable reality outside itself and assumes it to be where it should be. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
@@ -34,12 +48,26 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "But the continuous shock makes him perceive it as if it were hallucination. The impact of so violent a world keeps him on the ragged line that separates fantasy from waking, from waking and stably conscious life. This is the effect that Celine aims at in Journey to the End of Night and Death on the Installment Plan without ever quite bringing it off.",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "But the continuous shock makes him perceive it as if it were hallucination. The impact of so violent a world keeps him on the ragged line that separates fantasy from waking, from waking and stably conscious life. This is the effect that Celine aims at in Journey to the End of Night and Death on the Installment Plan without ever quite bringing it off.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
@@ -56,12 +84,26 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "How Ralph Ellison brings it off demands the attention of the kind of critic we so badly need. Criticism of the kind I've been asking for may be slow in coming, but we must have it, and it's not inconceivable that we shall. ",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "How Ralph Ellison brings it off demands the attention of the kind of critic we so badly need. Criticism of the kind I've been asking for may be slow in coming, but we must have it, and it's not inconceivable that we shall. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock Lecture",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "W.M. Frohock",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
         "selector": {
