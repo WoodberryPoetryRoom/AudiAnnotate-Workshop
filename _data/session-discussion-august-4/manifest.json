@@ -107,6 +107,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-trent.json",
+            "label": {
+              "none": ["Trent"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-frank-o-connor.json",
             "label": {
               "none": ["Frank O'Connor"]
