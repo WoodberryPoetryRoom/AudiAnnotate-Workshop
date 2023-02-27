@@ -1,0 +1,98 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-reaction.json",
+  "type": "AnnotationPage",
+  "label": "Reaction",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-reaction-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Laughter includes women! Wouldn't have known this unless I listened to the audio myself",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jasmyne",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "36900.0,37020.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-reaction-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This accent makes me laugh",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jasmyne",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "42480.0,42660.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-reaction-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "In a transcript, it's hard to convey that sounds are overlapping with others, and here, the laughter continues under the speaker",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jasmyne",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "113640.0,113760.0"
+        }
+      }
+    }
+  ]
+}
