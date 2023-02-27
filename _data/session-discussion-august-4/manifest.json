@@ -35,14 +35,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-audience.json",
-            "label": {
-              "none": ["Audience"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-stanley-hyman.json",
             "label": {
               "none": ["Stanley Hyman"]
