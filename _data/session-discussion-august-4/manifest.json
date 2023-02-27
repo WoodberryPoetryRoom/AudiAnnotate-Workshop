@@ -35,14 +35,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-harold-humes.json",
-            "label": {
-              "none": ["Harold Humes"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-panelists.json",
             "label": {
               "none": ["Panelists"]
