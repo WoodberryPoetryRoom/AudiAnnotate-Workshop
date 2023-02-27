@@ -32,14 +32,6 @@
               "none": ["W.M. Frohock"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-panelists.json",
-            "label": {
-              "none": ["Panelists"]
-            }
-          }
         ],
         "items": [
           {
