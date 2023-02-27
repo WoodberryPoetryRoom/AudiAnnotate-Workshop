@@ -59,6 +59,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-speaker.json",
+            "label": {
+              "none": ["Speaker"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-stanley-hyman.json",
             "label": {
               "none": ["Stanley Hyman"]
@@ -67,9 +75,25 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-environmental-sound.json",
+            "label": {
+              "none": ["Environmental Sound"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-andrew-lytle.json",
             "label": {
               "none": ["Andrew Lytle"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-tone.json",
+            "label": {
+              "none": ["Tone"]
             }
           }
           ,

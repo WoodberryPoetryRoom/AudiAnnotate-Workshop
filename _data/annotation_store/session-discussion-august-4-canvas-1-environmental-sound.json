@@ -1,0 +1,458 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-environmental-sound.json",
+  "type": "AnnotationPage",
+  "label": "Environmental Sound",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Cough.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.01,0.06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sigh in the background",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.026,0.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Turning of paper",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.12,1.15"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Heterogenous boisterous clapping",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.15,1.25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Background whispers, conversations, moving of furniture",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.26,1.28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Whispers",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.51,1.52"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Clearing throat from audience member",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3.37,3.38"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Cough, clearing throat",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4.24,4.26"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Laugh or wheeze",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "23.23,23.24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Predominantly female laugh",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "24.44,25.22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Predominantly female laugh",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "25.4,25.58"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Tense tones of amusement and bafflement by speaker and questioner",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "23.3,26"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Loud sneeze",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "27.59,28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Laughter in response to the speaker's quips",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "31.32,31.4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-environmental-sound-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Chuckle by nearby member",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "31.5,32"
+        }
+      }
+    }
+  ]
+}

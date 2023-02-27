@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-tone.json",
+  "type": "AnnotationPage",
+  "label": "Tone",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-tone-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Masculine voice speaks firmly in what appears to be reading. Enunciates in almost a four-syllable rhythm",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "60.0,0.26"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-tone-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Light heartened tone of speaker as if smiling",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "32.18,32"
+        }
+      }
+    }
+  ]
+}

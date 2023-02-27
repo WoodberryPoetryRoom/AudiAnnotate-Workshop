@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-speaker.json",
+  "type": "AnnotationPage",
+  "label": "Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-speaker-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Speaker stumbles in speech",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.58,1.03"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "session-discussion-august-4-canvas-1-speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Speaking resumes",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Amal",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/session-discussion-august-4/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.29,1.3"
+        }
+      }
+    }
+  ]
+}
