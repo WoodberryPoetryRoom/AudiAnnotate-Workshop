@@ -51,14 +51,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-carvel-collins.json",
-            "label": {
-              "none": ["Carvel Collins"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://WoodberryPoetryRoom.github.io/AudiAnnotate-Workshop/annotations/session-discussion-august-4-canvas-1-audience.json",
             "label": {
               "none": ["Audience"]
